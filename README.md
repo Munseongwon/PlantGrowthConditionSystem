@@ -1,6 +1,6 @@
 # PlantGrowthConditionSystem
-### 아두이노 모듈을 활용한 미니 식물 성장 조건 감지 시스
-<img src='smarthome_intro.png' alt='mainScreen' height="500px"/>
+### 아두이노 모듈을 활용한 미니 식물 성장 조건 감지 시스템
+<img src='식물성장조건감지시스템(윗면도).png' alt='mainScreen' width="1280px" height="500px"/>
 
 ## 프로젝트 요약
 > 6인 팀 프로젝트
